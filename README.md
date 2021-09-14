@@ -4,8 +4,8 @@
 
 [Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
-QRH4XVJGKVJ6OB25GR
+QWGEF373BPFWLFS6T6
 
-QJ7FQI8HFDN0NID4SZ 
+Q0WUZRCD7MMTVY2JOL
 
-Q9P2QH21QBJHQW9PMO
+Q5L1I1HT2S3I4QJ9Y4
