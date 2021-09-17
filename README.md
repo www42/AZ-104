@@ -10,11 +10,11 @@
 
 ---
 
-[Seminar Feedback /MTM)](https://www.metricsthatmatter.com/url/u.aspx?60AA2B742174563248)
+[Seminar Feedback (MTM)](https://www.metricsthatmatter.com/url/u.aspx?60AA2B742174563248)
 
 ---
 
-[Microsoft Training and Certification](https://aka.ms/traincert)
+[Microsoft Training and Certification](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
