@@ -6,6 +6,11 @@
 
 [AZ-104 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
+[Skillpipe](https://skillpipe.com)
+
+[Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
+
+
 ## How to
 
 [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
