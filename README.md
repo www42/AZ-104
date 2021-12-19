@@ -10,6 +10,12 @@
 
 [Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
 
+## Microsoft Learn
+
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+[Six Learning Path AZ-104 ](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
+
 
 ## How to
 
@@ -21,8 +27,6 @@
 ## Useful links
 
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
-
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 [Channel 9 Shows (now in Microsoft Learn)](https://docs.microsoft.com/en-us/shows/browse)
 
