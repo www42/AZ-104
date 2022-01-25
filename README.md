@@ -10,11 +10,6 @@
 
 [Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
 
-## Download Course Material
-
-[Teil 1](https://download69118.blob.core.windows.net/secure/AZ-104_20.Dez.2021-Teil1.zip?sv=2020-08-04&st=2021-12-21T17%3A09%3A32Z&se=2021-12-27T17%3A09%3A00Z&sr=b&sp=r&sig=m6BuaK6EJyLhNxB16rx7BkuMix3zYpz1eXR3CHe6bKg%3D)
-
-[Teil 2](https://download69118.blob.core.windows.net/secure/AZ-104_20.Dez.2021-Teil2.zip?sv=2020-08-04&st=2021-12-23T15%3A16%3A37Z&se=2022-01-31T15%3A16%3A00Z&sr=b&sp=r&sig=Xapm9Ww8Dy6xpNt7wtrF4mqF%2F6ZKR9jwCL9qCE0CCyk%3D)
 
 ## Microsoft Learn
 
