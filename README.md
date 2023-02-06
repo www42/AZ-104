@@ -6,9 +6,7 @@
 
 [AZ-104 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
-[Skillpipe](https://skillpipe.com)
-
-[Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
+[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 
 ## Microsoft Learn
