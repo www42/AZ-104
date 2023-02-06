@@ -13,14 +13,9 @@
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
-[Six Learning Path AZ-104 ](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
+[AZ-104 on Microsoft Learn ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
 
-## How to
-
-[Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
-
-[Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
 
 ## Useful links
