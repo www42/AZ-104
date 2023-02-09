@@ -1,6 +1,12 @@
 # AZ-104 Microsoft Azure Administrator
 
-[Presentation](pdf)
+[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?212895939193998165)
+
+[Claim your badge!](https://learn.microsoft.com/users/me/achievements?redeem=Y4Z6D5&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+[Get the presentation!](pdf)
+
+---
 
 [AZ-104 Repo](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
