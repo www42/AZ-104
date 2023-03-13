@@ -1,7 +1,7 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-[AZ-104 on Microsoft Learn ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
+[AZ-104 Learning Path ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
 [AZ-104 Microsoft Learn Repo](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
