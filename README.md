@@ -1,25 +1,25 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-[AZ-104 Repo](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
+[AZ-104 on Microsoft Learn ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
-[AZ-104 Labs Step-by-Step](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+[AZ-104 Microsoft Learn Repo](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
-[AZ-104 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+[AZ-104 Lab Instructions Step-by-Step](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
 [Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
+[AZ-104 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
-## Microsoft Learn
 
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
-[AZ-104 on Microsoft Learn ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
 
 
 
 ## Useful links
+
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
 
