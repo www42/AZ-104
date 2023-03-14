@@ -23,6 +23,10 @@
 
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
 
+[Azure Quickstart Templates](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
+
+[Bicep Playground](https://aka.ms/bicepdemo)
+
 [Channel 9 Shows (now in Microsoft Learn)](https://docs.microsoft.com/en-us/shows/browse)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
