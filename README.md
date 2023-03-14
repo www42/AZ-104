@@ -27,6 +27,8 @@
 
 [Bicep Playground](https://aka.ms/bicepdemo)
 
+[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+
 [Channel 9 Shows (now in Microsoft Learn)](https://docs.microsoft.com/en-us/shows/browse)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
