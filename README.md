@@ -1,5 +1,9 @@
 # AZ-104 Microsoft Azure Administrator
 
+[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?D3915871D195101803)
+
+[Claim your badge!](https://learn.microsoft.com/users/me/achievements?redeem=9ZKD33&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
 [Get the presentation](pdf)
 
 ---
