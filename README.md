@@ -22,6 +22,12 @@
 
 ## Useful links
 
+[Skillable Status](https://status.skillable.com/)
+
+[Docker Hub](https://hub.docker.com/)
+
+[The Illustrated Children's Guide to Kubernetes (youtube)](https://www.youtube.com/watch?v=4ht22ReBjno)
+
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
