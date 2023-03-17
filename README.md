@@ -66,7 +66,7 @@
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-305)
+[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-104)
 
 [Check out my GitHub repos](https://github.com/www42)
 
