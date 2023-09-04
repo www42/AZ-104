@@ -1,9 +1,7 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-[AZ-104 Learning Path ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
-
-[AZ-104 Microsoft Learn Repo](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
+[AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
 [AZ-104 Lab Instructions Step-by-Step](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
@@ -19,15 +17,15 @@
 
 ## Useful links
 
+[Microsoft Certification Poster](https://aka.ms/traincertposter)
+
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
 [Skillable Status](https://status.skillable.com/)
 
 [Docker Hub](https://hub.docker.com/)
 
 [The Illustrated Children's Guide to Kubernetes (youtube)](https://www.youtube.com/watch?v=4ht22ReBjno)
-
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-
-[Microsoft Certification Poster](https://aka.ms/traincertposter)
 
 [Azure Quickstart Templates](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
 
