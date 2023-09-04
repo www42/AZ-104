@@ -3,9 +3,9 @@
 
 [AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
-[AZ-104 Lab Instructions Step-by-Step](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
-
 [Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
+
+[Optional: Lab Instructions Step-by-Step](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
 [AZ-104 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
