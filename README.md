@@ -17,6 +17,9 @@
 
 ## Useful links
 
+
+[Microsoft Open Books Exams](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/introducing-a-new-resource-for-all-role-based-microsoft/bc-p/3916091)
+
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
