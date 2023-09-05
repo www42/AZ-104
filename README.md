@@ -17,6 +17,8 @@
 
 ## Useful links
 
+[Bicep Playground](https://aka.ms/bicepdemo)
+
 [Microsoft Learn on GitHub](https://github.com/MicrosoftLearning)
 
 [ARM REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
