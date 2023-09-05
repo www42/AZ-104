@@ -17,6 +17,8 @@
 
 ## Useful links
 
+[Microsoft Learn on GitHub](https://github.com/MicrosoftLearning)
+
 [ARM REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
 
 [Microsoft Open Books Exams](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/introducing-a-new-resource-for-all-role-based-microsoft/bc-p/3916091)
