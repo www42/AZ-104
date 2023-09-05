@@ -1,5 +1,8 @@
 # AZ-104 Microsoft Azure Administrator
 
+[Get the presentation](pdf)
+
+---
 
 [AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
@@ -16,6 +19,8 @@
 
 
 ## Useful links
+
+[Using Cloud Shell in an Azure virtual network](https://learn.microsoft.com/en-us/azure/cloud-shell/private-vnet)
 
 [Bicep Playground](https://aka.ms/bicepdemo)
 
@@ -36,8 +41,6 @@
 [The Illustrated Children's Guide to Kubernetes (youtube)](https://www.youtube.com/watch?v=4ht22ReBjno)
 
 [Azure Quickstart Templates](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
-
-[Bicep Playground](https://aka.ms/bicepdemo)
 
 [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
 
