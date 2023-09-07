@@ -16,7 +16,7 @@
 
 [AZ-104 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
-
+[Free Assessment](https://learn.microsoft.com/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
 
 
 
