@@ -1,12 +1,5 @@
 # AZ-104 Microsoft Azure Administrator
 
-[Give Feedback (Metrics that Matter)!](https://www.metricsthatmatter.com/url/u.aspx?DFEF82C6C201549644)
-
-[Grab your Badges (Microsoft Learn)!](https://learn.microsoft.com/users/me/achievements?redeem=GN3L6P&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
-[Get the presentation](pdf)
-
----
 
 [AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
