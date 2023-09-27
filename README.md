@@ -17,6 +17,8 @@
 
 ## Useful links
 
+[Load Balancing Options](https://learn.microsoft.com/de-de/azure/architecture/guide/technology-choices/load-balancing-overview)
+
 [Connect to Azure Cloud Shell from a local terminal without a browser - azshell](https://github.com/yangl900/azshell)
 
 [Using Cloud Shell in an Azure virtual network](https://learn.microsoft.com/en-us/azure/cloud-shell/private-vnet)
