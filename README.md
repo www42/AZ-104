@@ -1,5 +1,8 @@
 # AZ-104 Microsoft Azure Administrator
 
+[Get the Presentation](pdf)
+
+---
 
 [AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
@@ -9,7 +12,9 @@
 
 [AZ-104 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
-[Free Assessment](https://learn.microsoft.com/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
+[Microsoft Open Books Exams](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/introducing-a-new-resource-for-all-role-based-microsoft/bc-p/3916091)
+
+[Exam AZ-104 Free Assessment](https://learn.microsoft.com/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
 
 
 
@@ -17,25 +22,15 @@
 
 ## Useful links
 
-[Load Balancing Options](https://learn.microsoft.com/de-de/azure/architecture/guide/technology-choices/load-balancing-overview)
-
-[Connect to Azure Cloud Shell from a local terminal without a browser - azshell](https://github.com/yangl900/azshell)
-
-[Using Cloud Shell in an Azure virtual network](https://learn.microsoft.com/en-us/azure/cloud-shell/private-vnet)
-
-[Bicep Playground](https://aka.ms/bicepdemo)
-
-[Microsoft Learn on GitHub](https://github.com/MicrosoftLearning)
-
-[ARM REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
-
-[Microsoft Open Books Exams](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/introducing-a-new-resource-for-all-role-based-microsoft/bc-p/3916091)
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
 
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+[Microsoft Learn on GitHub](https://github.com/MicrosoftLearning)
 
-[Skillable Status](https://status.skillable.com/)
+[Bicep Playground](https://aka.ms/bicepdemo)
+
+[ARM REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
 
 [Docker Hub](https://hub.docker.com/)
 
