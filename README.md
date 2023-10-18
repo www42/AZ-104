@@ -17,6 +17,8 @@
 [Exam AZ-104 Free Assessment](https://learn.microsoft.com/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
 
 
+[MicrosoftLearning Github Repo AZ-104 "Allfiles"](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
+
 
 ## Monday
 
