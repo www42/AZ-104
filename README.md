@@ -24,6 +24,11 @@
 
 [The evolution of Windows authentication](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848) Microsoft is killing NTLM
 
+## Thursday
+
+[Choose an Azure compute service - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+
+
 
 ## Useful links
 
