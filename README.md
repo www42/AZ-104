@@ -1,9 +1,5 @@
 # AZ-104 Microsoft Azure Administrator
 
-[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?7C07AED93203216622)
-
-[Claim your badges!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=NJ7X2L)
-
 [Get the Presentation](pdf)
 
 ---
@@ -23,14 +19,6 @@
 
 [MicrosoftLearning Github Repo AZ-104 "Allfiles"](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
-
-## Monday
-
-[The evolution of Windows authentication](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848) Microsoft is killing NTLM
-
-## Thursday
-
-[Choose an Azure compute service - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 
 
 
