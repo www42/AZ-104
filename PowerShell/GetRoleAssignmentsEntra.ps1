@@ -3,7 +3,7 @@ Get-AzureADMSRoleDefinition | Sort-Object DisplayName | Format-Table DisplayName
 Get-AzureADMSRoleDefinition | Measure-Object
 
 # Permissions associated with a role
-$role = Get-AzureADMSRoleDefinition -Filter "displayName eq 'Application Administrator'"
+$role = Get-AzureADMSRoleDefinition -Filter "displayName eq 'User Administrator'"
 $role.RolePermissions.AllowedResourceActions
 
 # Which users have the role "Global Administrator"
