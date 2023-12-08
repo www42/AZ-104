@@ -1,5 +1,10 @@
 # AZ-104 Microsoft Azure Administrator
 
+
+[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?4508419AA205328151)
+
+[Claim your Badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=6RLY67)
+
 [Get the Presentation](pdf)
 
 ---
