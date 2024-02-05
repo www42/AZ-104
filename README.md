@@ -1,6 +1,9 @@
 # AZ-104 Microsoft Azure Administrator
 
+[Get the presentation](pdf)
 
+
+---
 
 [AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
