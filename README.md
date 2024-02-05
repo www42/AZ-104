@@ -6,8 +6,6 @@
 
 [Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
----
-
 [Interactive Lab Simulations](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator)
 
 ---
