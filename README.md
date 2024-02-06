@@ -42,6 +42,13 @@ Applied Skill [Deploy and configure Azure Monitor](https://learn.microsoft.com/e
 [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
+---
+
+[Define your naming convention](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+
+[Resource naming restrictions - Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules)
+
+[Abbreviation examples for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
 
 ## Useful links
 
