@@ -1,6 +1,10 @@
 # AZ-104 Microsoft Azure Administrator
 
-[Get the presentation](pdf)
+[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?CC47B0EA3207304730)
+
+[Grab your badge!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=DZ9XMX)
+
+[Get the presentation!](pdf)
 
 
 ---
