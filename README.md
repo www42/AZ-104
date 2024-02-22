@@ -4,17 +4,17 @@
 
 ### Microsoft Learn Badges
 
-(AZ-900)[https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=82YR73]
+[AZ-900](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=82YR73)
 
-(AZ-104)[https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=NJQKK4]
+[AZ-104](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=NJQKK4)
 
-(AZ-700)[https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=XPDXPM]
+[AZ-700](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=XPDXPM)
 
-(AZ-305)[https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=PQ7GQX]
+[AZ-305](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=PQ7GQX)
 
-(AZ-1003)[https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=GVLNR9]
+[AZ-1003](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=GVLNR9)
 
-(AZ-1002)[https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=2QPJ9R]
+[AZ-1002](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=2QPJ9R)
 
 
 ---
