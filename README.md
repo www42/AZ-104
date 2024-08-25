@@ -1,12 +1,5 @@
 # AZ-104 Microsoft Azure Administrator
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?360DD4A73210555979)
-
-[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=QMJNKZ)
-
-[Get the presentation](pdf)
-
----
 
 [AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
@@ -111,7 +104,6 @@ Applied Skill [Deploy and configure Azure Monitor](https://learn.microsoft.com/e
 
 [Follow me on Twitter](https://twitter.com/tjkkll)
 
-[My Blog](https://blog.az.training)
 
 ---
 
