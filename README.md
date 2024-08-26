@@ -3,7 +3,9 @@
 
 [AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
 
-[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
+<!-- <[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key) -->
+
+Labs --> [Go deploy](https://lms.godeploy.it/) Register and redeem a code
 
 [Interactive Lab Simulations](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator)
 
