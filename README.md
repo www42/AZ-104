@@ -54,6 +54,15 @@ Applied Skill [Deploy and configure Azure Monitor](https://learn.microsoft.com/e
 
 
 
+# LP4 Virtual Networks
+
+[Azure Bastion Subnet](https://learn.microsoft.com/en-us/azure/bastion/configuration-settings)
+
+[Gateway Subnet](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
+
+[DNS Magic IP address 168.63.129.16](https://learn.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16)
+
+
 ## Useful links
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
