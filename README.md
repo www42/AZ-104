@@ -28,7 +28,7 @@
 [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
 
-br>
+<br>
 
 
 ## Certification
