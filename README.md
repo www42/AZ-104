@@ -5,6 +5,8 @@
 [LP5]: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 
 
+[Heute beginnt die Ignite 2024!](https://ignite.microsoft.com/en-US/home)
+
 # AZ-104 Microsoft Azure Administrator
 
 ## Learning Paths
@@ -62,8 +64,6 @@
 [Microsoft Learn](https://learn.microsoft.com)
 
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
-
-[Microsoft Ignite November 19 - 21, 2024](https://ignite.microsoft.com/en-US/home)
 
 <br>
 
