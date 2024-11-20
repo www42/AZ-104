@@ -7,6 +7,10 @@
 
 [Heute beginnt die Ignite 2024!](https://ignite.microsoft.com/en-US/home)
 
+[AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
+
+<br>
+
 # AZ-104 Microsoft Azure Administrator
 
 ## Learning Paths
