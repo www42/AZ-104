@@ -5,7 +5,7 @@
 [LP5]: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 
 
-[Heute beginnt die Ignite 2024!](https://ignite.microsoft.com/en-US/home)
+[Ignite 2024!](https://ignite.microsoft.com/en-US/home)
 
 [AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
 
