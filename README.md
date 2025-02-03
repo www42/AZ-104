@@ -20,7 +20,11 @@
 
 ## Learning Paths
 
-[AZ-104 Learning Paths ](https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/xe42fkkpzr6roe)
+- Learning Path 1 [Manage identities and governance in Azure][LP1]
+- Learning Path 2 [Configure and manage virtual networks for Azure administrators][LP2]
+- Learning Path 3 [Implement and manage storage in Azure][LP3]
+- Learning Path 4 [Deploy and manage Azure compute resources][LP4]
+- Learning Path 5 [Monitor and back up Azure resources][LP5]
 
 
 ## Labs
