@@ -1,3 +1,4 @@
+[LP0]: https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/
 [LP1]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/
 [LP2]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
 [LP3]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/
@@ -20,11 +21,12 @@
 
 ## Learning Paths
 
-- Learning Path 1 [Manage identities and governance in Azure][LP1]
-- Learning Path 2 [Configure and manage virtual networks for Azure administrators][LP2]
-- Learning Path 3 [Implement and manage storage in Azure][LP3]
-- Learning Path 4 [Deploy and manage Azure compute resources][LP4]
-- Learning Path 5 [Monitor and back up Azure resources][LP5]
+- Learning Path [Manage identities and governance in Azure][LP1]
+- Learning Path [Prerequisites for Azure administrators (Tools)][LP0]
+- Learning Path [Configure and manage virtual networks for Azure administrators][LP2]
+- Learning Path [Implement and manage storage in Azure][LP3]
+- Learning Path [Deploy and manage Azure compute resources][LP4]
+- Learning Path [Monitor and back up Azure resources][LP5]
 
 
 ## Labs
