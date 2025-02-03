@@ -4,6 +4,7 @@
 [LP4]: https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
 [LP5]: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 
+<!--
 # Seminar 18. - 21, November 2024
 
 [Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?CD2A73222216405582)
@@ -13,6 +14,7 @@
 [Get the presentation](pdf/)
 
 <br>
+-->
 
 # AZ-104 Microsoft Azure Administrator
 
