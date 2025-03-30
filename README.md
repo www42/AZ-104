@@ -88,7 +88,9 @@
 
 ## Useful links
 
-[Ignite 2024](https://ignite.microsoft.com/en-US/home)
+[Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
+
+[Microsoft Build 2025](https://build.microsoft.com/en-US/home)
 
 [Bicep Playground](https://aka.ms/bicepdemo)
 
