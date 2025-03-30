@@ -6,11 +6,11 @@
 [LP5]: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 
 <!--
-# Seminar 18. - 21, November 2024
+# Seminar 31.03. - 03.04 2024
 
-[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?CD2A73222216405582)
+[Give Feedback]()
 
-[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=3Y4Y75)
+[Grab your badge])
 
 [Get the presentation](pdf/)
 
