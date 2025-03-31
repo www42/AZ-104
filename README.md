@@ -19,6 +19,12 @@
 
 # AZ-104 Microsoft Azure Administrator
 
+## Seminar 31.03. - 03.04 2024
+
+Get the presentation [here](pdf/)
+
+<br>
+
 ## Learning Paths
 
 - Learning Path [Manage identities and governance in Azure][LP1]
