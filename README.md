@@ -71,6 +71,11 @@
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
+[Microsoft Applied Skills: Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)
+
+[Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
+
+[Microsoft Applied Skills: Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
 <br>
 
@@ -84,6 +89,8 @@
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
 [AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
+
+[How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
 <br>
 
