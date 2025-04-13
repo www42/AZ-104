@@ -9,7 +9,7 @@
 
 
 <!--
-# Seminar 31.03. - 03.04 2024
+# Seminar 14. - 17.04 2024
 
 [Give Feedback]()
 
@@ -20,15 +20,7 @@
 <br>
 -->
 
-## Seminar 31.03. - 03.04 2024
 
-[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?EA4921135221129777)
-
-[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=LNMMQJ)
-
-Get the presentation [here](pdf/)
-
-<br>
 
 ## Learning Paths
 
@@ -63,7 +55,7 @@ Get the presentation [here](pdf/)
 
 |   |   |
 | - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg" width="100"/> | [Microsoft Certified: Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) |
 
 
 [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/practice/assessment?assessment-type=practice&assessmentId=21&practice-assessment-type=certification)
