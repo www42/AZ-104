@@ -8,17 +8,17 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-<!--
 # Seminar 14. - 17.04 2024
 
+<!--
 [Give Feedback]()
 
 [Grab your badge]()
+-->
 
 [Get the presentation](pdf/)
 
 <br>
--->
 
 
 
