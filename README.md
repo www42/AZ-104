@@ -102,6 +102,12 @@
 
 [Microsoft Build 2025](https://build.microsoft.com/en-US/home)
 
+[Azure documentation](https://docs.microsoft.com/en-us/azure/)
+
+[Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/)
+
+[Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
+
 [Bicep Playground](https://aka.ms/bicepdemo)
 
 [ARM REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
@@ -113,8 +119,6 @@
 [Azure Quickstart Templates](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
 
 [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
-
-[Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
 
