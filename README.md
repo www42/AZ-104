@@ -97,7 +97,15 @@
 
 
 ## Useful links
+
+### Container stuff
+
+[ollama/ollama - Docker Image](https://hub.docker.com/r/ollama/ollama)
+
 [Official .NET Docker images](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/net-core-net-framework-containers/official-net-docker-images)
+
+
+### Miscellaneous
 
 [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
 
