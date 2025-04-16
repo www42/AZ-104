@@ -97,6 +97,7 @@
 
 
 ## Useful links
+[Official .NET Docker images](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/net-core-net-framework-containers/official-net-docker-images)
 
 [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
 
