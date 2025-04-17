@@ -10,11 +10,9 @@
 
 # Seminar 14. - 17.04 2024
 
-<!--
-[Give Feedback]()
+[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?4C70E21DF221770885)
 
-[Grab your badge]()
--->
+[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=QJ2Z5N)
 
 [Get the presentation](pdf/)
 
