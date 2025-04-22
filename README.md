@@ -8,7 +8,7 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-<!-->
+<!--
 # Seminar 22. - 25.04 2024
 
 [Give Feedback]()
