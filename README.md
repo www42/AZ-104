@@ -8,16 +8,17 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-# Seminar 14. - 17.04 2024
+<!-->
+# Seminar 22. - 25.04 2024
 
-[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?4C70E21DF221770885)
+[Give Feedback]()
 
-[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=QJ2Z5N)
+[Grab your badge]()
 
 [Get the presentation](pdf/)
 
 <br>
-
+-->
 
 
 ## Learning Paths
