@@ -103,6 +103,13 @@
 
 [Official .NET Docker images](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/net-core-net-framework-containers/official-net-docker-images)
 
+[Docker Hub](https://hub.docker.com/)
+
+
+### AWS
+
+[Azure for AWS Professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
+
 
 ### Miscellaneous
 
@@ -119,8 +126,6 @@
 [Bicep Playground](https://aka.ms/bicepdemo)
 
 [ARM REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
-
-[Docker Hub](https://hub.docker.com/)
 
 [The Illustrated Children's Guide to Kubernetes (youtube)](https://www.youtube.com/watch?v=4ht22ReBjno)
 
