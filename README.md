@@ -105,10 +105,17 @@
 
 [Docker Hub](https://hub.docker.com/)
 
+[The Illustrated Children's Guide to Kubernetes (youtube)](https://www.youtube.com/watch?v=4ht22ReBjno)
 
 ### AWS
 
 [Azure for AWS Professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
+
+
+### Network
+
+[Default outbound access for VMs in Azure will be retired](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
+
 
 
 ### Miscellaneous
@@ -126,8 +133,6 @@
 [Bicep Playground](https://aka.ms/bicepdemo)
 
 [ARM REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
-
-[The Illustrated Children's Guide to Kubernetes (youtube)](https://www.youtube.com/watch?v=4ht22ReBjno)
 
 [Azure Quickstart Templates](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
 
