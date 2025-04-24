@@ -95,6 +95,26 @@
 
 
 
+
+## Reading for a rainy weekend
+
+
+
+[Plan and implement an Azure Front Door, including Content Delivery Network (CDN)](https://learn.microsoft.com/en-us/training/modules/security-public-access-azure-resources/6-front-door-content-development-network)
+
+[Tutorial: Create an application gateway with URL path-based routing rules using Azure portal](https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
+
+[Azure Application Gateway documentation](https://learn.microsoft.com/en-us/azure/application-gateway/)
+
+[What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli)
+
+[List of Azure regions](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
+
+[Azure for AWS Professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
+
+
+
+
 ## Useful links
 
 ### Container stuff
@@ -107,9 +127,6 @@
 
 [The Illustrated Children's Guide to Kubernetes (youtube)](https://www.youtube.com/watch?v=4ht22ReBjno)
 
-### AWS
-
-[Azure for AWS Professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
 
 
 ### Network
@@ -141,6 +158,8 @@
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
 
 [Microsoft Mechanics on YouTube](https://www.youtube.com/c/MicrosoftMechanicsSeries)
+
+[Azure Updates](https://azure.microsoft.com/en-us/updates)
 
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
