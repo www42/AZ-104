@@ -148,7 +148,7 @@
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
-[Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/)
+[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/)
 
 [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 
@@ -157,8 +157,6 @@
 [ARM REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
 
 [Azure Quickstart Templates](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
-
-[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
 
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
 
@@ -171,6 +169,8 @@
 [Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
 
 [Scott Hanselman](https://www.hanselman.com/)
+
+[John Savill](https://www.youtube.com/@NTFAQGuy)
 
 
 <br>
