@@ -96,6 +96,8 @@
 
 ## Reading for a rainy weekend
 
+[Kubernetes and Docker Container Management Software](https://www.portainer.io/)
+
 [List of Azure regions](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
 
 [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli)
