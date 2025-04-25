@@ -98,7 +98,9 @@
 
 ## Reading for a rainy weekend
 
+[List of Azure regions](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
 
+[What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli)
 
 [Plan and implement an Azure Front Door, including Content Delivery Network (CDN)](https://learn.microsoft.com/en-us/training/modules/security-public-access-azure-resources/6-front-door-content-development-network)
 
@@ -106,9 +108,9 @@
 
 [Azure Application Gateway documentation](https://learn.microsoft.com/en-us/azure/application-gateway/)
 
-[What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli)
+[terraformer: CLI tool to generate terraform files from existing infrastructure (reverse Terraform)](https://github.com/GoogleCloudPlatform/terraformer)
 
-[List of Azure regions](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
+[Pulumi](https://www.pulumi.com/docs/)
 
 [Azure for AWS Professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
 
