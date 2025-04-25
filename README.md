@@ -102,6 +102,8 @@
 
 [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli)
 
+[What is Azure Chaos Studio?](https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-overview)
+
 [Plan and implement an Azure Front Door, including Content Delivery Network (CDN)](https://learn.microsoft.com/en-us/training/modules/security-public-access-azure-resources/6-front-door-content-development-network)
 
 [Tutorial: Create an application gateway with URL path-based routing rules using Azure portal](https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
@@ -115,7 +117,8 @@
 [Azure for AWS Professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
 
 
-
+<br>
+<br>
 
 ## Useful links
 
