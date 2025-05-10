@@ -180,7 +180,7 @@
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150">
 <img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
-<a href="https://www.credly.com/badges/72439d56-7895-4b92-84bd-fec12c84fd18/public_url"><img src="https://download69118.blob.core.windows.net/anon/mcse-cloud-platform-and-infrastructure-certified-2016.png" width="100"></a>
+<img src="https://download69118.blob.core.windows.net/anon/mcse-cloud-platform-and-infrastructure-certified-2016.png" width="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=100></a>
 <a href="https://www.credly.com/badges/2a1b8f81-8609-4e8f-85d7-dad4f21f84f6/public_url"><img src="https://download69118.blob.core.windows.net/anon/aws-certified-ai-practitioner.png" width=100></a>
 <a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="100"/></a>
