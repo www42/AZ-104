@@ -9,7 +9,7 @@
 
 
 <!--
-# Seminar 22. - 25.04. 2024
+# Seminar 23. - 26.06.2025
 
 [Give Feedback]()
 
@@ -33,12 +33,14 @@
 
 ## Labs
 
+<!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
+-->
 
-<!--[Go Deploy](https://lms.godeploy.it) -->
+[Go Deploy](https://lms.godeploy.it)
 
 [Interactive Lab Simulations](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator)
 
