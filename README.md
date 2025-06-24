@@ -8,17 +8,15 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-<!--
 # Seminar 23. - 26.06.2025
 
+[Get the presentation](pdf/)
+<!--
 [Give Feedback]()
 
 [Grab your badge]()
-
-[Get the presentation](pdf/)
-
-<br>
 -->
+<br>
 
 
 ## Learning Paths
@@ -98,27 +96,11 @@
 
 
 
-## Reading for a rainy weekend
-
-[Kubernetes and Docker Container Management Software](https://www.portainer.io/)
+## Monday
 
 [List of Azure regions](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
 
 [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli)
-
-[What is Azure Chaos Studio?](https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-overview)
-
-[Plan and implement an Azure Front Door, including Content Delivery Network (CDN)](https://learn.microsoft.com/en-us/training/modules/security-public-access-azure-resources/6-front-door-content-development-network)
-
-[Tutorial: Create an application gateway with URL path-based routing rules using Azure portal](https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
-
-[Azure Application Gateway documentation](https://learn.microsoft.com/en-us/azure/application-gateway/)
-
-[terraformer: CLI tool to generate terraform files from existing infrastructure (reverse Terraform)](https://github.com/GoogleCloudPlatform/terraformer)
-
-[Pulumi](https://www.pulumi.com/docs/)
-
-[Azure for AWS Professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
 
 
 <br>
@@ -179,7 +161,7 @@
 
 <br>
 
-##  Your Trainer
+## Your Trainer
 #### Thomas Jäkel
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150"><img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
