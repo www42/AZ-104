@@ -79,6 +79,12 @@
 <br>
 
 
+## Very New: Microsoft Learn for Github
+
+[Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
+
+<br>
+
 ## Microsoft Learn
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
