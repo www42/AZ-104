@@ -8,12 +8,11 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-# Seminar 23. - 26.06.2025
+<!--
+# Seminar 14. - 17.07.2025
 
 [Get the presentation](pdf/)
-<!--
 [Give Feedback]()
-
 [Grab your badge]()
 -->
 <br>
@@ -39,8 +38,6 @@
 -->
 
 [Go Deploy](https://lms.godeploy.it)
-
-[Interactive Lab Simulations](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator)
 
 [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
@@ -101,12 +98,6 @@
 
 
 
-
-## Monday
-
-[List of Azure regions](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
-
-[What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli)
 
 
 <br>
