@@ -105,6 +105,11 @@
 
 ## Useful links
 
+### Dienstag
+
+[Bicep Playground](https://azure.github.io/bicep/)
+
+
 ### Container stuff
 
 [ollama/ollama - Docker Image](https://hub.docker.com/r/ollama/ollama)
