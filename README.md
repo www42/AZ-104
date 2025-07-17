@@ -11,7 +11,8 @@
 # Seminar 14. - 17.07.2025
 
 [Get the presentation](pdf/)
-[Give Feedback - Seminarnummer 145286 ](https://feedback.etc.at/)
+
+[Give Feedback](https://feedback.etc.at/) - Seminarnummer 145286 
 <!--
 [Grab your badge]()
 -->
