@@ -8,11 +8,11 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-<!--
 # Seminar 14. - 17.07.2025
 
 [Get the presentation](pdf/)
-[Give Feedback]()
+[Give Feedback - Seminarnummer 145286 ](https://feedback.etc.at/)
+<!--
 [Grab your badge]()
 -->
 <br>
