@@ -13,7 +13,7 @@
 
 [Get the presentation](pdf/)
 
-[Give Feedback](https://feedback.etc.at/) - Seminarnummer xxxxxx 
+[Give Feedback](https://feedback.etc.at/) - Seminarnummer 145284 
 [Grab your badge]()
 -->
 <br>
