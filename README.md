@@ -8,12 +8,12 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-# Seminar 14. - 17.07.2025
+<!--
+# Seminar 16. - 19.09.2025
 
 [Get the presentation](pdf/)
 
-[Give Feedback](https://feedback.etc.at/) - Seminarnummer 145286 
-<!--
+[Give Feedback](https://feedback.etc.at/) - Seminarnummer xxxxxx 
 [Grab your badge]()
 -->
 <br>
