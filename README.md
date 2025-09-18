@@ -106,7 +106,7 @@
 
 ## Useful links
 
-### Dienstag
+[11 Ways to hack Windows 11 • ETC](https://www.etc.at/webinar/11ways-to-hack-windows11/)
 
 [Bicep Playground](https://azure.github.io/bicep/)
 
