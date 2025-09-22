@@ -8,11 +8,11 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-<!--
-# Seminar 16. - 19.09.2025
+# Seminar 22. - 29.09.2025
 
 [Get the presentation](pdf/)
 
+<!--
 [Give Feedback](https://feedback.etc.at/) - Seminarnummer 145284 
 [Grab your badge]()
 -->
@@ -31,14 +31,14 @@
 
 ## Labs
 
-<!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
--->
 
+<!--
 [Go Deploy](https://lms.godeploy.it)
+-->
 
 [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
