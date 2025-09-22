@@ -8,7 +8,7 @@
 # AZ-104 Microsoft Azure Administrator
 
 
-# Seminar 22. - 29.09.2025
+# Seminar 22. - 25.09.2025
 
 [Get the presentation](pdf/)
 
