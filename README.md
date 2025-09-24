@@ -8,6 +8,10 @@
 # AZ-104 Microsoft Azure Administrator
 
 
+
+[Video. The Illustrated Children's Guide to Kubernetes](https://download69118.blob.core.windows.net/videos/The%20Illustrated%20Children's%20Guide%20to%20Kubernetes.mp4?sp=r&st=2025-09-24T07:47:49Z&se=2025-09-24T21:02:49Z&spr=https&sv=2024-11-04&sr=b&sig=OeIiuatg6WHigfn4DP3u33ElGj27SfvYUc1aVrVe%2FhM%3D)
+
+
 # Seminar 22. - 25.09.2025
 
 [Get the presentation](pdf/)
