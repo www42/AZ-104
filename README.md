@@ -107,9 +107,9 @@
 
 ## Useful links
 
-### Container stuff
+[Microsoft Ignite 2025 - YouTube](https://www.youtube.com/watch?v=PLUsiaET0yI&list=PLQXpv_NQsPIDXiR9PcpggZ34mzko_-12C)
 
-[ollama/ollama - Docker Image](https://hub.docker.com/r/ollama/ollama)
+[Default outbound access for VMs in Azure will be retired](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
 
 [Official .NET Docker images](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/net-core-net-framework-containers/official-net-docker-images)
 
@@ -117,19 +117,6 @@
 
 [The Illustrated Children's Guide to Kubernetes (youtube)](https://www.youtube.com/watch?v=4ht22ReBjno)
 
-
-
-### Network
-
-[Default outbound access for VMs in Azure will be retired](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
-
-
-
-### Miscellaneous
-
-[Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
-
-[Microsoft Build 2025](https://build.microsoft.com/en-US/home)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
@@ -180,13 +167,13 @@
 
 [My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email me](mailto:thomas.jaekel@brainymotion.de)
+[Email me](mailto:thomas.jaekel@ifcon.de)
 
 [Check out my GitHub repos](https://github.com/www42)
 
 [Find me on LinkedIn](https://linkedin.com/in/tjkkll)
 
-[Follow me on Twitter](https://twitter.com/tjkkll)
+[Follow me on X (Twitter)](https://twitter.com/tjkkll)
 
 
 ---
