@@ -9,15 +9,12 @@
 
 
 
-[Video. The Illustrated Children's Guide to Kubernetes](https://download69118.blob.core.windows.net/videos/The%20Illustrated%20Children's%20Guide%20to%20Kubernetes.mp4?sp=r&st=2025-09-24T07:47:49Z&se=2025-09-24T21:02:49Z&spr=https&sv=2024-11-04&sr=b&sig=OeIiuatg6WHigfn4DP3u33ElGj27SfvYUc1aVrVe%2FhM%3D)
 
-
-# Seminar 22. - 25.09.2025
-
-[Get the presentation](pdf/)
+# Seminar 08. - 11.12.2025
 
 <!--
-[Give Feedback](https://feedback.etc.at/) - Seminarnummer 145284 
+[Get the presentation](pdf/)
+[Give Feedback]() 
 [Grab your badge]()
 -->
 <br>
@@ -35,12 +32,12 @@
 
 ## Labs
 
+<!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
-<!--
 [Go Deploy](https://lms.godeploy.it)
 -->
 
@@ -109,11 +106,6 @@
 <br>
 
 ## Useful links
-
-[11 Ways to hack Windows 11 • ETC](https://www.etc.at/webinar/11ways-to-hack-windows11/)
-
-[Bicep Playground](https://azure.github.io/bicep/)
-
 
 ### Container stuff
 
