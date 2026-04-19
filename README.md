@@ -7,18 +7,15 @@
 
 # AZ-104 Microsoft Azure Administrator
 
-
-
-
-# Seminar 08. - 11.12.2025
+<!--
+# Seminar 20. - 23.04.2026
 
 [Get the presentation](pdf/)
 
-<!--
 [Give Feedback]() 
 [Grab your badge]()
--->
 <br>
+-->
 
 
 ## Learning Paths
@@ -33,19 +30,20 @@
 
 ## Labs
 
-[Lab environment Skillable](https://brainymotion.learnondemand.net) 
 <!--
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
-
 -->
 
 [Go Deploy](https://lms.godeploy.it)
 
+<!--
 [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
 [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+-->
 
 
 <br>
@@ -105,11 +103,10 @@
 
 
 <br>
-<br>
 
 ## Useful links
 
-[Microsoft Ignite 2025 - YouTube](https://www.youtube.com/watch?v=PLUsiaET0yI&list=PLQXpv_NQsPIDXiR9PcpggZ34mzko_-12C)
+[Microsoft Build, June 2-3, 2026](https://build.microsoft.com/en-US/home)
 
 [Default outbound access for VMs in Azure will be retired](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
 
