@@ -98,7 +98,11 @@
 
 <br>
 
+## Montag
 
+[How to use the Azure Cloud Shell editor (New)](https://learn.microsoft.com/en-us/azure/cloud-shell/use-cloud-shell-editor-new)
+
+[IaC templates for Microsoft Graph resources documentation](https://learn.microsoft.com/en-us/graph/templates/?view=graph-bicep-1.0)
 
 
 
