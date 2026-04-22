@@ -7,11 +7,11 @@
 
 # AZ-104 Microsoft Azure Administrator
 
-<!--
 # Seminar 20. - 23.04.2026
 
 [Get the presentation](pdf/)
 
+<!--
 [Give Feedback]() 
 [Grab your badge]()
 <br>
