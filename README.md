@@ -43,7 +43,6 @@ Optional: [Lab Instructions step by step (HTML)](https://microsoftlearning.githu
 
 <!--
 [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
-
 -->
 
 
@@ -106,6 +105,15 @@ Optional: [Lab Instructions step by step (HTML)](https://microsoftlearning.githu
 [IaC templates for Microsoft Graph resources documentation](https://learn.microsoft.com/en-us/graph/templates/?view=graph-bicep-1.0)
 
 
+<br>
+
+## Mittwoch
+
+[The Illustrated Children's Guide to Kubernetes](https://download69118.blob.core.windows.net/videos/The%20Illustrated%20Children's%20Guide%20to%20Kubernetes.mp4?sp=r&st=2026-04-22T10:43:05Z&se=2026-04-26T18:58:05Z&spr=https&sv=2025-11-05&sr=b&sig=m72A6r7qEu36EfjgP598Z5BzrnA9jI9lSYqvgXsJ5cc%3D)
+
+[A conversation with Brendan Burns: What is Kubernetes? - YouTube](https://www.youtube.com/watch?v=q1PcAawa4Bg&list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)
+
+[bharathshetty4/supermario - Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
 
 <br>
 
