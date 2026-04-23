@@ -11,7 +11,9 @@
 
 [Get the presentation](pdf/)
 
-[Give Feedback](https://www.flane.de/eval) 
+[Give Feedback](https://www.flane.de/eval) Ask your trainer for password
+
+QR Code (Direct Link /eval - with password already filled in)
 ![QR Code](pic/af1d76de-e80a-4d9b-83a9-d578a8a2a93c.png)
 
 [Grab your badge](https://www.flane.de/ms-achievement) Code: **6NPVYZ**
