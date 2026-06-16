@@ -26,12 +26,13 @@
 - Learning Path [Deploy and manage Azure compute resources][LP4]
 - Learning Path [Monitor and back up Azure resources][LP5]
 
+<br>
 
 ## Labs 🛠️
 
-<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) -->
-
 [Lab environment Skillable](https://experteach.learnondemand.net/) 
+
+<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) -->
 
 <!-- [Go Deploy](https://lms.godeploy.it) -->
 
