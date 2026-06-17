@@ -38,7 +38,7 @@
 
 Optional: [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
-<!-- [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) -->
+Optional: [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
 <br>
 
