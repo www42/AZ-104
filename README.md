@@ -28,6 +28,7 @@
 
 <br>
 
+<!--
 ## Labs 🛠️
 
 [Lab environment Skillable](https://experteach.learnondemand.net/) 
@@ -41,6 +42,8 @@ Optional: [Lab Instructions step by step (HTML)](https://microsoftlearning.githu
 Optional: [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
 <br>
+-->
+
 
 
 ## Certification 🏅
@@ -127,6 +130,8 @@ Optional: [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-
 
 
 ## Useful links 🤿
+
+[Microsoft Ignite, November 17-20, 2026 | Live News](https://news.microsoft.com/events/ignite/2026/)
 
 [Microsoft Build, June 2-3, 2026](https://build.microsoft.com/en-US/home)
 
