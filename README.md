@@ -28,21 +28,19 @@
 
 <br>
 
-<!--
 ## Labs 🛠️
 
-[Lab environment Skillable](https://experteach.learnondemand.net/) 
+<!-- [Lab environment Skillable](https://experteach.learnondemand.net/) -->
 
 <!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) -->
 
-<!-- [Go Deploy](https://lms.godeploy.it) -->
+[Go Deploy](https://lms.godeploy.it)
 
 Optional: [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 
 Optional: [GitHub Repo Microsoft Learn](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 
 <br>
--->
 
 
 
